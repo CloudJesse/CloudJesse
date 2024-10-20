@@ -10,7 +10,8 @@
 
 - 😄 Pronouns: He/Him
 
--⚡ Fun fact: I once traveled across America, living in several cities, inspired by the road adventures of Jack Kerouac!
+-  Fun fact: I once traveled across America, living in several cities, inspired by the road adventures of Jack Kerouac!
+  
 
 <!---
 CloudJesse/CloudJesse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
